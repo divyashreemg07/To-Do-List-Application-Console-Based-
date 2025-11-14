@@ -4,7 +4,7 @@ This is a simple console-based To-Do List application built using Python.
 
 It allows you to add, view, remove, and save tasks in a text file (tasks.txt).
 
-##Features:
+## Features:
 
 - View all saved tasks
   
@@ -16,17 +16,17 @@ It allows you to add, view, remove, and save tasks in a text file (tasks.txt).
   
 - Loads tasks from the file
 
-###Tools :Python, VS Code / terminal.
+### Tools :Python, VS Code / terminal.
 
-####Concepts Used: file handling, lists, functions, exception handling, and menu-driven programs.
+#### Concepts Used: file handling, lists, functions, exception handling, and menu-driven programs.
 
-#####Project Files:
+##### Project Files:
 
 - todo.py : Main Python script containing the program.
   
 - tasks.txt : Automatically created file to store tasks.
 
-######How to Run the Program:
+###### How to Run the Program:
 
 1.Save the program in a file named todo.py.
 
@@ -34,7 +34,7 @@ It allows you to add, view, remove, and save tasks in a text file (tasks.txt).
    
 3. Run the command: python todo.py
 
-#######How it works:
+####### How it works:
 
 Reading Tasks:
 
@@ -44,7 +44,7 @@ Saving Tasks:
 
 The program writes each task into 'tasks.txt' and overwrites the file  each time to keep it updated.
 
-########Menu Options:
+######## Menu Options:
 
 1. View Tasks – Displays all current tasks.
    
